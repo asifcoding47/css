@@ -6,7 +6,7 @@ body{
     font-family: verdana,sans-serif;
 }
 .background-image{
-    background-image: url('./images/mountain.jpg');
+    background-image: url('https://media.istockphoto.com/id/1463473188/photo/dramatic-view-of-the-fjord-surrounded-by-the-mountains-on-lofoten-islands.jpg?b=1&s=170667a&w=0&k=20&c=9T08FcXMk0iwPIDH6T31IUCOIkw3yOprJ_X-07x3tA0=');
     background-size: cover;
     background-repeat: no-repeat;
     height: 100vh;
